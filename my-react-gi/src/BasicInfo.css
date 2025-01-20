@@ -1,0 +1,11 @@
+body {
+  text-align: center;
+}
+
+.basic-info {
+  margin: 10px;
+  padding: 10px;
+  border: solid black 3px;
+  border-radius: 15px;
+  background-color: #0acdff;
+}
