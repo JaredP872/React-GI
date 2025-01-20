@@ -22,5 +22,5 @@ const BasicInfo = (props) => {
   );
 };
 
-// exports the BasicInfo component as the default export on this file. This makes the component reasuable and allows files to imprt it bu using: import BasicInfo from "./BasicInfo"
+// exports the BasicInfo component as the default export on this file. This makes the component reasuable and allows files to imprt it by using: import BasicInfo from "./BasicInfo"
 export default BasicInfo;
