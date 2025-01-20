@@ -1,6 +1,6 @@
 // Imports the react library that we need in order to create and use react components.
 import React from "react";
-//Imports the basic Info components from the BasicInfo.js file.
+// Imports the basic Info components from the BasicInfo.js file.
 import BasicInfo from "./BasicInfo";
 
 // Declares a class based react component named App that extends React.component. This is needed to manage this.state
